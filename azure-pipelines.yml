@@ -18,6 +18,8 @@ steps:
     testType: 'app'
     monitorWhen: 'always'
     failOnIssues: true
+    projectName: 'akashnish/djnago-todo'
+    organization: '4d88ec8b-a802-4439-8a06-2d0d249cc8b9'
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
